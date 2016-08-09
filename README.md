@@ -1,7 +1,7 @@
 GW2-Cursor
 ==========
 
-[원본](https://github.com/Iyeonghun/gw2-cursor.git) 프로젝트에서 수정
+[원본](https://github.com/fritzw/gw2-cursor) 프로젝트에서 수정
 
 - 수정내용
 	1. 커서아이콘
