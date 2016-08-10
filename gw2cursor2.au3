@@ -16,8 +16,8 @@ Global $offsetY = 5
 Opt("TrayAutoPause", 0)
 Opt("TrayMenuMode", 3)
 TraySetIcon("tray-icon.ico")
-$trayItemTy = TrayCreateItem("Special Thanks! Fritz Webering[fritz@webering.eu]")
-$trayItemMake = TrayCreateItem("Make by El Diana[fluera1@gmail.com]")
+$trayItemTy = TrayCreateItem("Make : Fritz Webering[fritz@webering.eu]")
+$trayItemMake = TrayCreateItem("Edit : El Diana[fluera1@gmail.com]")
 $trayItemExit = TrayCreateItem("Exit")
 
 _GDIPlus_Startup()
